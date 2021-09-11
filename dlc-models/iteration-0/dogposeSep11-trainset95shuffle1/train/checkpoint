@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Master\\Desktop\\dic\\DeepLabCut\\conda-environments\\dogpose-dogpo-2021-09-11\\dlc-models\\iteration-0\\dogposeSep11-trainset95shuffle1\\train\\snapshot-1500"
+all_model_checkpoint_paths: "C:\\Users\\Master\\Desktop\\dic\\DeepLabCut\\conda-environments\\dogpose-dogpo-2021-09-11\\dlc-models\\iteration-0\\dogposeSep11-trainset95shuffle1\\train\\snapshot-1500"
